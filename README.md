@@ -14,14 +14,16 @@ arp
 Router vs Switch
 IPv4 vs IPv6
 OSI Model
+
 Tools Used
 Windows Command Prompt
 Microsoft Word
 GitHub
+
 Files Included
 Assignment Report (PDF)
 Command Screenshots
-Supporting Documents
+
 What I Learned
 
 This assignment helped me understand the basics of computer networking, how devices communicate, and how to use common networking commands to troubleshoot network connectivity.
