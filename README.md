@@ -4,6 +4,7 @@ Overview
 This repository contains my Week 02 assignment completed during my Cybersecurity Internship at IT-SIMPLERA Institute.
 
 Topics Covered
+
 Network Information using ipconfig /all
 Windows Networking Commands
 ipconfig
