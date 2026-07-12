@@ -16,11 +16,13 @@ IPv4 vs IPv6
 OSI Model
 
 Tools Used
+
 Windows Command Prompt
 Microsoft Word
 GitHub
 
 Files Included
+
 Assignment Report (PDF)
 Command Screenshots
 
